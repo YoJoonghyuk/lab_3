@@ -1,0 +1,5 @@
+dbname="postgres"
+user="postgres"
+password="21"
+host="localhost"
+command="postgres"
